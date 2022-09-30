@@ -1,4 +1,4 @@
-# <message_in_a_bottle>
+# message_in_a_bottle
 
 ## サイト概要
 ### サイトテーマ
