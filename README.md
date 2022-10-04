@@ -1,4 +1,4 @@
-# message_in_a_bottle
+# Bottle Mail
 
 ## サイト概要
 ### サイトテーマ
